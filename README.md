@@ -1,12 +1,16 @@
-# Calum Leslie Webmaps
+# Calum Leslie: Webmaps
 
-* Click here for [Map One](/cabrach-forestry/index.html)
+* Click here for [Cabrach: Forestry](/cabrach-forestry/index.html)
+* Click here for [Cabrach: Archaeology](/cabrach-forestry-archaeo/index.html)
+* Click here for [Cabrach: Land Capability for Agriculture](/cabrach-land-capability-for-agri/index.html)
+* Click here for [Cabrach: Soils and Forestry](/cabrach-soils-forestry/index.html)
+* Click here for [Cairngorms: National Vegetation Classification](/cairngorms-nvc/index.html)
+* Click here for [Scotland: Pictish Archaeological Sites](/scotland-picts/index.html)
+* Click here for [Strathbogie: Ancient Woodland and Soils](/strathbogie-awi-soils/index.html)
 
 Maps collected here are tests of webmapping functionality in QGIS. 
 
-To read them, download the folder leaving the directory structure intact, then open 'index.html' in a web browser (an internet connection is not necessary for this). 
-
-The map will then open in a web browser. 
+Click the links above to open each map in a web browser.
 
 The dialogue box in the top left corner provides a list of the layers included in the map. Checking the box beside each layer will turn it on or off (by default, all layers are active when the map is first opened). 
 
