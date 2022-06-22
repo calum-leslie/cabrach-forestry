@@ -1,1 +1,1 @@
-hello world
+First map is [cabrach-forestry](/cabrach-forestry).
