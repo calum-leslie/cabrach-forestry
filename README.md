@@ -20,6 +20,6 @@ The icons in the top left corner provide a measurement tool and zoom controls (a
 
 With the appropriate plugins, QGIS can provide even more webmapping functionality, including 3D maps.
 
-The basemaps used here are OpenStreetMap Landscape maps and are credited as such at the bottom right corner. OpenStreetMap® is open data, licensed under the Open Data Commons Open Database License (ODbL) by the OpenStreetMap Foundation (OSMF). See <https://www.openstreetmap.org/copyright> for details on licensing and copyright for this data.
+The basemaps used here are OpenStreetMap Landscape maps and are credited as such at the bottom right corner. OpenStreetMap® is open data, licensed under the Open Data Commons Open Database License (ODbL) by the OpenStreetMap Foundation (OSMF). Details on [licensing and copyright](https://www.openstreetmap.org/copyright "licensing and copyright") for this data are available.
 
 Other layers are derived from datasets publicly available from <https://www.spatialdata.gov.scot>. 
