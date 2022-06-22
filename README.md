@@ -1,9 +1,9 @@
 # Calum Leslie: Webmaps
 
-* Click here for [Cabrach: Forestry](webmaps/cabrach-forestry/index.html)
-* Click here for [Cabrach: Archaeology](/cabrach-forestry-archaeo/index.html)
-* Click here for [Cabrach: Land Capability for Agriculture](/cabrach-land-capability-for-agri/index.html)
-* Click here for [Cabrach: Soils and Forestry](/cabrach-soils-forestry/index.html)
+* Click here for [Cabrach: Forestry](/cabrach-forestry/index.html)
+* Click here for [Cabrach: Archaeology](cabrach-forestry-archaeo/index.html)
+* Click here for [Cabrach: Land Capability for Agriculture](cabrach-land-capability-for-agri/index.html)
+* Click here for [Cabrach: Soils and Forestry](cabrach-soils-forestry/index.html)
 * Click here for [Cairngorms: National Vegetation Classification](/cairngorms-nvc/index.html)
 * Click here for [Scotland: Pictish Archaeological Sites](/scotland-picts/index.html)
 * Click here for [Strathbogie: Ancient Woodland and Soils](/strathbogie-awi-soils/index.html)
