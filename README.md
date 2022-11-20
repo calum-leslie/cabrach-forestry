@@ -10,7 +10,7 @@
 
 ## links
 
-* Click here for [Cabrach: Forestry](/webmaps/cabrach-forestry/index.html)
+* Click here for [Cabrach: Forestry](public/cabrach-forestry/index.html)
 * Click here for [Cabrach: Archaeology](/webmaps/cabrach-forestry-archaeo/index.html)
 * Click here for [Cabrach: Land Capability for Agriculture](/webmaps/cabrach-land-capability-for-agri/index.html)
 * Click here for [Cabrach: Soils and Forestry](/webmaps/cabrach-soils-forestry/index.html)
