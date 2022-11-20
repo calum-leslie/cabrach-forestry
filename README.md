@@ -1,5 +1,13 @@
 # Calum Leslie: Webmaps
 
+## Deploying new maps
+
+1. copy map to webmaps/public
+1. git add .
+1. git commit -m 'your message here' 
+1. git push
+1. go to laikamap.com and check it is present
+
 * Click here for [Cabrach: Forestry](/webmaps/cabrach-forestry/index.html)
 * Click here for [Cabrach: Archaeology](/webmaps/cabrach-forestry-archaeo/index.html)
 * Click here for [Cabrach: Land Capability for Agriculture](/webmaps/cabrach-land-capability-for-agri/index.html)
