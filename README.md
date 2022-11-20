@@ -3,10 +3,12 @@
 ## Deploying new maps
 
 1. copy map to webmaps/public
-1. git add .
-1. git commit -m 'your message here' 
-1. git push
-1. go to laikamap.com and check it is present
+1. `git add .`
+1. `git commit -m 'your message here'` 
+1. `git push`
+1. go to https://boisterous-tiramisu-c24863.netlify.app/ and check it is present
+
+## links
 
 * Click here for [Cabrach: Forestry](/webmaps/cabrach-forestry/index.html)
 * Click here for [Cabrach: Archaeology](/webmaps/cabrach-forestry-archaeo/index.html)
